@@ -1,0 +1,2 @@
+wi
+print("MLRIT")
